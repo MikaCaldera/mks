@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'gothambold';
+	src: url('./gothambold.eot');
+	src: local('gothambold'), url('./gothambold.woff') format('woff'), url('./gothambold.ttf') format('truetype');
+}
